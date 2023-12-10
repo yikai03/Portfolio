@@ -8,7 +8,7 @@ const projectData = [
         title: "Portfolio",
         description: "This is a NextJs Portfolio.",
         image: "/projects/linkedout&about.png",
-        gitUrl: "https://github.com/yikai03/Hackthletes-workshop-nextjs-portfolio"
+        gitUrl: "https://github.com/yikai03/Portfolio"
 
     }
 
