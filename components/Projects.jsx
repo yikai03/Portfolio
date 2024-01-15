@@ -10,8 +10,14 @@ const projectData = [
         image: "/projects/linkedout&about.png",
         gitUrl: "https://github.com/yikai03/Portfolio"
 
+    },
+    {
+        id: 2,
+        title: "House Rent Prediction in India",
+        description: "A project to predict house rent in India using Data Analysis and Model Building.",
+        image: "/projects/Thumnail.png",
+        gitUrl: "https://github.com/yikai03/House-Rent-Prediction-in-India.git"
     }
-
 ];
 
 const Projects = () => {
