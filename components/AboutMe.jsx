@@ -15,6 +15,10 @@ const TAB_DATA = [
                 <li>R</li>
                 <li>Java</li>
                 <li>C++</li>
+                <li>d3.js</li>
+                <li>PowerBI</li>
+                <li>Google Looker</li>
+
           </ul>
         ),
     },
@@ -25,6 +29,7 @@ const TAB_DATA = [
           <ul className="list-disc pl-2">
             <li>Tune Protect Hackathon</li>
             <li>Hilti Ideathon</li>
+            <li>SAS Curiousity Cup 2024</li>
           </ul>
         ),
     },
